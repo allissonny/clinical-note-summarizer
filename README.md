@@ -24,10 +24,6 @@ setx OPENAI_API_KEY "sk-REPLACE_ME"
 streamlit run streamlit_app.py
 ```
 
-## Screenshots to include in your presentation
-- Home screen with sidebar config
-- A generated note result
-- Optional: edited system prompt and its effect
 
 ## Notes
 The included PHI redaction is **naive** and for demo only.
